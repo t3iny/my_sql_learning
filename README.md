@@ -4,11 +4,10 @@
 
 ## Какие БД использовались:
 
-![DataBase_1.png](..%2F..%2FDownloads%2FDataBase_1.png)
+![DataBase_1.png](image/DataBase_1.png)
 
-![DataBase_2.png](..%2F..%2FDownloads%2FDataBase_2.png)
+![DataBase_2.png](image/DataBase_2.png)
 
-![DataBase_3.png](..%2F..%2FDownloads%2FDataBase_3.png)
+![DataBase_3.png](image/DataBase_3.png)
 
-![DataBase_4.png](..%2F..%2FDownloads%2FDataBase_4.png)
-
+![DataBase_4.png](image/DataBase_4.png)
